@@ -47,7 +47,7 @@
                 ┌──────────────────────────┐
                 │   Database Server (RDS)  │
                 └──────────────────────────┘
-
+```
 ---
 
 ## ⚡ Key Implementation Points
